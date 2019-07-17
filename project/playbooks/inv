@@ -1,0 +1,11 @@
+192.168.100.59
+192.168.100.60
+192.168.100.105
+
+
+[internserver:vars]
+ansible_connection=ssh
+ansible_user=root
+ansible_ssh_pass=shr4l1f3
+
+

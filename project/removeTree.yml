@@ -1,0 +1,6 @@
+- name: remove the tree package
+  hosts: localhost
+  tasks:
+    yum:
+      name: tree
+      state: absent
