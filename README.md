@@ -1,2 +1,2 @@
 # ansible-start
-some yaml files that I created over the summer of 2019
+some basic yaml files that I created over the summer of 2019
